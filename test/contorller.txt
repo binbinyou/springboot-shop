@@ -1,7 +1,6 @@
 public void test(){
    String key = "name";
   key = "change"
-
   key = "realmyself222";
 
   key = commit
