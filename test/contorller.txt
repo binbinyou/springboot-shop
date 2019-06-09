@@ -1,4 +1,5 @@
 public void test(){
    String key = "name";
+  key = "change"
   key = "realmyself";
 }
